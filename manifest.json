@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "EXO Delegate Copier",
+  "description": "Easily copy delegate groups / Azure AD group names inside Exchange Online.",
+  "version": "1.0.0",
+  "permissions": ["clipboardWrite"],
+  "host_permissions": [
+    "https://admin.exchange.microsoft.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://admin.exchange.microsoft.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}

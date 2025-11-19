@@ -1,0 +1,13 @@
+.exo-copy-btn {
+  margin-left: 6px;
+  padding: 2px 6px;
+  font-size: 11px;
+  border: 1px solid #999;
+  border-radius: 4px;
+  background: #f2f2f2;
+  cursor: pointer;
+}
+
+.exo-copy-btn:hover {
+  background: #e2e2e2;
+}
