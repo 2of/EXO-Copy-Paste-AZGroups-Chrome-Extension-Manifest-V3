@@ -1,6 +1,7 @@
-# EXO-Copy-Paste-AZGroups Chrome Manifest V3 extension
-Why on earth is this text not copyable MS?
+# EXO-Copy-Paste-AZGroups (Chrome Manifest V3 Extension)
 
+**Why on earth is this text not copyable MS?**
 
+Find the Chrome extension here:
 
-!- Unable to test outside of prod env... 
+[EXO-Copy-Paste-AZGroups – Chrome Web Store](https://chromewebstore.google.com/detail/exchange-online-delegate/nifeaobdncccphbgiponfcmokphmgjne)
